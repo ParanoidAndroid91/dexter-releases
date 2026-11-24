@@ -103,7 +103,7 @@ Jamf Pro one computer at a time.
 1. Download **`Dexter-<version>.pkg`** from the
    [latest release](https://github.com/ParanoidAndroid91/dexter-releases/releases/latest).
 2. Open the PKG and follow the installer. Dexter installs to the
-   **/Applications** folder.
+   **Applications** folder.
 
 The installer is **fully signed and notarised by Apple**, so it opens without
 GateKeeper security warnings.
