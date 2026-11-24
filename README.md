@@ -44,7 +44,7 @@ Originally named **_Serial Killer_** as it 'killed' multiple Macs using their
 _serial_ number for ID, I settled upon the more friendly name of 'Dexter' 
 (if you know, you know - and if you don't, go and watch the show!).
 
-You build a list of Macs,either from a CSV of serial numbers or by searching Jamf Pro 
+You build a list of Macs, either from a CSV of serial numbers or by searching Jamf Pro 
 and picking from computer groups (or even both together: de-duplication is built-in!). 
 Dexter then checks every Mac against Jamf Pro and then sends each one the **Erase Device** 
 MDM command. Every step is logged, whether it succeeds or fails, so you're kept informed.
@@ -74,7 +74,7 @@ Jamf Pro one computer at a time.
   The flexibility and choice is yours!
 
 ### Erasing
-- **Dry run first:** check every serial against Jamf Pro without erasing
+- **Dry run first:** checks every serial against Jamf Pro without erasing
   anything.
 - **Live erase:** sends the Erase Device command to each Mac, with a short
   pause between commands.
