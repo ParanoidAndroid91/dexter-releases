@@ -26,7 +26,7 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Setting up Jamf Pro](#setting-up-jamf-pro)
+- [Setting up the API Client in Jamf Pro](#setting-up-the-api-client-in-jamf-pro)
 - [Using Dexter](#using-dexter)
 - [Safety features](#safety-features)
 - [Logs and auditing](#logs-and-auditing)
@@ -270,7 +270,7 @@ Use **Help → Contact Support…** in Dexter.
 ---
 
 <p align="center">
-  Made by Luke Baldwin at <a href="https://krcs.co.uk">KRCS</a>.<br>
+  Made by Luke Baldwin at <a href="https://www.krcs.co.uk">KRCS</a>.<br>
   © 2026 Luke Baldwin.<br>
   <sub>Dexter is inspired by, but in no way affiliated with, the TV show
   <em>Dexter</em>. It isn't affiliated with or endorsed by either Jamf nor KRCS.</sub>
